@@ -1,0 +1,185 @@
+---
+title: "Spatial Interpolation Overview"
+author: "Julie Wisch"
+date: "6/10/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(results = 'hide')
+knitr::opts_chunk$set(fig.keep = 'all')
+
+library(stringr)
+library(data.table)
+library(sp)
+library(gstat)
+library(dplyr)
+library(ggplot2)
+library(scales)
+library(magrittr)
+library(tidyverse)
+library(sf)
+library(osmdata)
+library(tidycensus)
+
+readRenviron("~/.Renviron") #reading in my installed api key. not including api key in version pushed to git
+```
+
+```{r}
+#NOTES:
+# RMD book -> https://bookdown.org/yihui/rmarkdown/html-document.html
+# RMD cheat sheet -> https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+```
+
+```{r}
+################################################################################
+#Read in files
+################################################################################
+EPA_files <- list.files(path = ".././Data/", pattern="*.csv")
+EPA_files <- str_subset(EPA_files, "PM25") #keeping all files that contain ___
+EPA_file_list = lapply(paste0(".././Data/", EPA_files), read.csv)
+EPA_files <- rbindlist(EPA_file_list, fill = TRUE)
+rm(EPA_file_list)
+
+EPA_files$Date <- as.Date(EPA_files$Date, format = "%m/%d/%Y")
+EPA_files$Year <- substr(EPA_files$Date, start = 1, stop = 4)
+EPA_files <- EPA_files[EPA_files$SITE_LATITUDE < 38.8 & 
+                         EPA_files$SITE_LATITUDE > 37.772 ,]
+address_df <- read.csv(".././Data/masked_participant_IDs_for_example.csv")
+
+################################################################################
+#Summarizing by year
+################################################################################
+EPA_Annual <- setDT(EPA_files)[, .(PM25_concentration = mean(Daily.Mean.PM2.5.Concentration),
+                     AQI = mean(DAILY_AQI_VALUE)), by = list(Year, Site.Name,
+                                                       AQS_PARAMETER_DESC,
+                                                       SITE_LATITUDE,
+                                                       SITE_LONGITUDE)]
+
+
+```
+
+## Introduction
+
+The EPA manages a variety of monitoring sites at the locations shown below. The goal of this project is to generate estimates of common air pollutants across the greater St. Louis area. In order to do this, we will apply inverse distance weighted interpolation.
+
+```{r}
+################################################################################
+#Plotting monitoring site locations
+################################################################################
+#using tidy census to pull census tract geometries
+stl_value <- get_acs(geography = "tract"
+                     , state = c("MO"),
+                     county = c("St. Louis County", "St. Louis city",
+                                "St. Charles County", "Jefferson County"),
+                     variables = "B19013_001",
+                     geometry = TRUE)
+il_value <- get_acs(geography = "tract"
+                    , state = c("IL"),
+                    county = c("Bond County", "Calhoun County", "Clinton County",
+                               "Jersey County", "Macoupin County", "Madison County",
+                               "Monroe County", "St. Clair County"),
+                    variables ="B19013_001",
+                    geometry = TRUE)
+
+metro_region <- rbind(stl_value, il_value)
+rm(stl_value, il_value)
+
+
+ggplot(metro_region, aes()) + geom_sf() + 
+geom_point(data = EPA_Annual[EPA_Annual$Year == 2017,], 
+           aes(y = SITE_LATITUDE, x = SITE_LONGITUDE, 
+               size = PM25_concentration, alpha = 0.8, colour = "red")) + 
+  #scale_colour_manual(values = c("coral2", "springgreen2")) +
+  xlim(c(-90.58, -89.95)) + ylim(c(38.471, 38.83)) + theme_bw() +
+  ggtitle("Particulate Matter 2.5 Monitoring Sites, Greater St. Louis Area") + xlab("") + ylab("") +
+  theme(legend.position = "none")
+```
+
+### Spatial Interpolation for Visualization
+
+Here we visualize the interpolated estimates of PM2.5 across the metro area. Note that when you generate points for visualization, you must use an evenly spaced grid. When you are calculating points as estimates for individual participants, you do not have to supply a grid. you can just use points.
+
+The code for interpolation is quite simple, but you have to do a decent amount of manipulation of the spatial data structures to be able to use them. This code is shown below.
+
+```{r, echo = TRUE}
+EPA <- EPA_Annual[EPA_Annual$Year == 2017,] #Trimming to a single year
+coordinates(EPA) <- ~ SITE_LONGITUDE + SITE_LATITUDE #converting spatial df
+coordinates(address_df) <- ~ Lon + Lat
+
+metro_region_coordinates <- data.frame(unlist(metro_region$geometry))
+
+grd <- makegrid(address_df, n = 1000) #generating grid for plotting
+colnames(grd) <- c("x", "y")
+
+
+grd <- grd[!duplicated(grd),]
+# Next, convert the grid to `SpatialPoints` and subset these points by the polygon.
+grd_pts <- SpatialPoints(
+  coords      = grd, 
+  proj4string = CRS(proj4string(EPA))
+)
+
+#Actual Interpolation Starts Here
+lzn.idw <- idw(log(PM25_concentration) ~ 1,  EPA, 
+                    newdata = grd_pts) #inverse distance weighted interpolation
+lzn.idw$interpolatedPM25 <- exp(lzn.idw$var1.pred) #returning to original units
+```
+
+```{r}
+#Plot the new pm2.5 values
+
+  ggplot(metro_region, aes()) + geom_sf(fill = NA) +
+    geom_point(data = data.frame(address_df), aes(x = Lon, y = Lat), size = 0.2, alpha = 0.8) +
+    theme_bw() +
+    geom_tile(data = data.frame(lzn.idw), aes(x = x, y = y, 
+                                              fill = interpolatedPM25), alpha = 0.8) +
+    ylim(c(min(data.frame(lzn.idw)$y), max(data.frame(lzn.idw)$y))) +
+    xlim(c(min(data.frame(lzn.idw)$x), max(data.frame(lzn.idw)$x))) +
+    ggtitle("Interpolated Particulate Matter 2.5 Concentration", 
+    subtitle = "Greater St. Louis Area") + xlab("") + ylab("") +
+    xlim(c(min(metro_region_coordinates[metro_region_coordinates$unlist.metro_region.geometry. < 0,]),
+           max(metro_region_coordinates[metro_region_coordinates$unlist.metro_region.geometry. < 0,]))) +
+    ylim(c(min(metro_region_coordinates[metro_region_coordinates$unlist.metro_region.geometry. > 0,]),
+           max(metro_region_coordinates[metro_region_coordinates$unlist.metro_region.geometry. > 0,]))) 
+```
+
+### Spatial Interpolation for Point Estimates
+
+Instead of generating smoothed estimates over a grid, we can generate point estimates for a list of lat/long coordinates of interest. Here we do that, then display the estimates for those points of interest within census tracts. The code required to do this is very similar to that displayed in the chunk above, so we omit it here and instead just show the result.
+
+```{r}
+  analysis_pts <- SpatialPoints(
+    coords      = address_df, 
+    proj4string = CRS(proj4string(EPA))
+  )
+  
+  
+  analysis.idw <- idw(log(PM25_concentration) ~ 1,  EPA, 
+                 newdata = analysis_pts) #inverse distance weighted interpolation
+  analysis.idw$interpolatedPM25 <- exp(analysis.idw$var1.pred) #returning to original units
+
+  address_df <- data.frame(address_df)
+analysis.idw <- data.frame(analysis.idw)  
+
+address_df <- merge(address_df[, c("Lat", "Lon", "census_code", "LocationName")], 
+                    analysis.idw[, c("Lat", "Lon", "interpolatedPM25")], 
+                    by = c("Lat", "Lon"))
+
+
+plot_df <- merge(metro_region, address_df[, c("LocationName", "interpolatedPM25", 
+                                              "Lat", "Lon")], 
+                 by.x = "GEOID", by.y = "LocationName", all = TRUE)
+
+ggplot(plot_df, aes(fill = interpolatedPM25)) + geom_sf() + 
+  geom_point(aes(x = Lon, y = Lat), size = 0.4) + 
+  xlim(c(-90.58, -89.95)) + ylim(c(38.471, 38.83)) 
+```
