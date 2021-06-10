@@ -1,0 +1,329 @@
+Date,Source,Site ID,POC,Daily Max 1-hour NO2 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+1/1/2021,AQS,290950034,1,13.9,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/2/2021,AQS,290950034,1,38,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/3/2021,AQS,290950034,1,31.2,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/4/2021,AQS,290950034,1,30.1,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/5/2021,AQS,290950034,1,45.3,ppb,42,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/6/2021,AQS,290950034,1,22.9,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/7/2021,AQS,290950034,1,12.7,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/8/2021,AQS,290950034,1,30.2,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/9/2021,AQS,290950034,1,26,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/10/2021,AQS,290950034,1,16.1,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/11/2021,AQS,290950034,1,24.5,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/12/2021,AQS,290950034,1,23.7,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/13/2021,AQS,290950034,1,16.3,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/14/2021,AQS,290950034,1,15,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/15/2021,AQS,290950034,1,12.9,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/16/2021,AQS,290950034,1,12.7,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/17/2021,AQS,290950034,1,27.2,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/18/2021,AQS,290950034,1,34.4,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/19/2021,AQS,290950034,1,23.9,ppb,22,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/20/2021,AQS,290950034,1,31.9,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/21/2021,AQS,290950034,1,37.4,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/22/2021,AQS,290950034,1,22.5,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/23/2021,AQS,290950034,1,13.9,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/24/2021,AQS,290950034,1,24.7,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/25/2021,AQS,290950034,1,15.7,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/26/2021,AQS,290950034,1,15.3,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/27/2021,AQS,290950034,1,15.8,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/28/2021,AQS,290950034,1,35.1,ppb,33,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/29/2021,AQS,290950034,1,32.4,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/30/2021,AQS,290950034,1,20.2,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/31/2021,AQS,290950034,1,15.2,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/1/2021,AQS,290950034,1,21.6,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/2/2021,AQS,290950034,1,23.9,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/3/2021,AQS,290950034,1,26.7,ppb,25,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/4/2021,AQS,290950034,1,21.5,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/5/2021,AQS,290950034,1,22.1,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/6/2021,AQS,290950034,1,13.3,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/7/2021,AQS,290950034,1,14.3,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/8/2021,AQS,290950034,1,13.1,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/9/2021,AQS,290950034,1,14.5,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/10/2021,AQS,290950034,1,12.6,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/11/2021,AQS,290950034,1,12.5,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/12/2021,AQS,290950034,1,9.5,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/13/2021,AQS,290950034,1,9.6,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/14/2021,AQS,290950034,1,8.7,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/15/2021,AQS,290950034,1,12.2,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/16/2021,AQS,290950034,1,33,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/17/2021,AQS,290950034,1,30.1,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/18/2021,AQS,290950034,1,43.3,ppb,41,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/19/2021,AQS,290950034,1,46.8,ppb,43,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/20/2021,AQS,290950034,1,26.4,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/21/2021,AQS,290950034,1,14.7,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/22/2021,AQS,290950034,1,25.9,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/23/2021,AQS,290950034,1,45,ppb,42,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/24/2021,AQS,290950034,1,25.5,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/25/2021,AQS,290950034,1,38,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/26/2021,AQS,290950034,1,30.1,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/27/2021,AQS,290950034,1,16.9,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/28/2021,AQS,290950034,1,13,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/1/2021,AQS,290950042,1,20.4,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/2/2021,AQS,290950042,1,36.9,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/3/2021,AQS,290950042,1,17.5,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/4/2021,AQS,290950042,1,32.3,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/5/2021,AQS,290950042,1,32.7,ppb,30,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/6/2021,AQS,290950042,1,27.5,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/7/2021,AQS,290950042,1,7.5,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/8/2021,AQS,290950042,1,29.4,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/9/2021,AQS,290950042,1,25.9,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/10/2021,AQS,290950042,1,18.1,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/11/2021,AQS,290950042,1,23.6,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/12/2021,AQS,290950042,1,20.5,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/13/2021,AQS,290950042,1,20.3,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/14/2021,AQS,290950042,1,8.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/15/2021,AQS,290950042,1,6.7,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/16/2021,AQS,290950042,1,20.9,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/17/2021,AQS,290950042,1,30.6,ppb,28,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/18/2021,AQS,290950042,1,28.6,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/19/2021,AQS,290950042,1,27.6,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/20/2021,AQS,290950042,1,29.4,ppb,27,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/21/2021,AQS,290950042,1,32.9,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/22/2021,AQS,290950042,1,16,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/23/2021,AQS,290950042,1,21.6,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/24/2021,AQS,290950042,1,11.5,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/25/2021,AQS,290950042,1,7,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/26/2021,AQS,290950042,1,6.5,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/27/2021,AQS,290950042,1,8.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/28/2021,AQS,290950042,1,24.4,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/29/2021,AQS,290950042,1,24.4,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/30/2021,AQS,290950042,1,15.6,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/31/2021,AQS,290950042,1,6,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/1/2021,AQS,290950042,1,15.5,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/2/2021,AQS,290950042,1,21.1,ppb,20,"Blue Ridge, I-70",21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/3/2021,AQS,290950042,1,19.6,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/4/2021,AQS,290950042,1,21.5,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/5/2021,AQS,290950042,1,25.9,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/6/2021,AQS,290950042,1,8,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/7/2021,AQS,290950042,1,8.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/8/2021,AQS,290950042,1,7.4,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/9/2021,AQS,290950042,1,7.4,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/10/2021,AQS,290950042,1,7.3,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/11/2021,AQS,290950042,1,8.5,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/12/2021,AQS,290950042,1,6.7,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/13/2021,AQS,290950042,1,5.1,ppb,5,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/14/2021,AQS,290950042,1,6.2,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/15/2021,AQS,290950042,1,7,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/17/2021,AQS,290950042,1,22.9,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/18/2021,AQS,290950042,1,33.5,ppb,31,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/19/2021,AQS,290950042,1,46,ppb,43,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/20/2021,AQS,290950042,1,27.7,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/21/2021,AQS,290950042,1,31.4,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/22/2021,AQS,290950042,1,29.6,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/23/2021,AQS,290950042,1,41.1,ppb,39,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/24/2021,AQS,290950042,1,36,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/25/2021,AQS,290950042,1,38.5,ppb,36,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/26/2021,AQS,290950042,1,26.6,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/27/2021,AQS,290950042,1,16.3,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/28/2021,AQS,290950042,1,7.9,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/1/2021,AQS,291370001,1,4.4,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/2/2021,AQS,291370001,1,3.8,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/3/2021,AQS,291370001,1,8.4,ppb,8,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/4/2021,AQS,291370001,1,3.9,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/5/2021,AQS,291370001,1,5.3,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/6/2021,AQS,291370001,1,7.8,ppb,7,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/7/2021,AQS,291370001,1,6.5,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/8/2021,AQS,291370001,1,6,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/9/2021,AQS,291370001,1,3.2,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/10/2021,AQS,291370001,1,3.8,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/11/2021,AQS,291370001,1,7.5,ppb,7,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/12/2021,AQS,291370001,1,4.4,ppb,4,MTSP,22,92,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/13/2021,AQS,291370001,1,4.4,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/14/2021,AQS,291370001,1,4.6,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/15/2021,AQS,291370001,1,3.2,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/16/2021,AQS,291370001,1,5.3,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/17/2021,AQS,291370001,1,4.4,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/18/2021,AQS,291370001,1,6.8,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/19/2021,AQS,291370001,1,5.2,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/20/2021,AQS,291370001,1,4,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/21/2021,AQS,291370001,1,5.9,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/22/2021,AQS,291370001,1,2.1,ppb,2,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/23/2021,AQS,291370001,1,6.3,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/24/2021,AQS,291370001,1,4.2,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/25/2021,AQS,291370001,1,4.6,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/26/2021,AQS,291370001,1,3.5,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/27/2021,AQS,291370001,1,4,ppb,4,MTSP,22,92,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/28/2021,AQS,291370001,1,11.8,ppb,10,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/29/2021,AQS,291370001,1,10,ppb,9,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/30/2021,AQS,291370001,1,5.4,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/31/2021,AQS,291370001,1,4.1,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/1/2021,AQS,291370001,1,2.8,ppb,2,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/2/2021,AQS,291370001,1,7.3,ppb,7,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/3/2021,AQS,291370001,1,6.4,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/4/2021,AQS,291370001,1,3.7,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/5/2021,AQS,291370001,1,4.5,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/6/2021,AQS,291370001,1,2.9,ppb,2,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/7/2021,AQS,291370001,1,3,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/8/2021,AQS,291370001,1,5.4,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/9/2021,AQS,291370001,1,6.8,ppb,6,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/26/2021,AQS,291370001,1,5.7,ppb,5,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/27/2021,AQS,291370001,1,4.8,ppb,4,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+2/28/2021,AQS,291370001,1,3.5,ppb,3,MTSP,24,100,42602,Nitrogen dioxide (NO2),,,29,Missouri,137,Monroe,39.47497615,-91.78899098
+1/1/2021,AQS,291890016,1,12,ppb,11,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/2/2021,AQS,291890016,1,9.9,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/3/2021,AQS,291890016,1,16.2,ppb,15,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/4/2021,AQS,291890016,1,25.9,ppb,24,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/5/2021,AQS,291890016,1,39.7,ppb,37,"Rider Trail, I-70",22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/6/2021,AQS,291890016,1,34.4,ppb,32,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/7/2021,AQS,291890016,1,10,ppb,9,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/8/2021,AQS,291890016,1,9.3,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/9/2021,AQS,291890016,1,5.6,ppb,5,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/10/2021,AQS,291890016,1,6.7,ppb,6,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/11/2021,AQS,291890016,1,25.5,ppb,24,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/12/2021,AQS,291890016,1,34,ppb,32,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/13/2021,AQS,291890016,1,21.3,ppb,20,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/14/2021,AQS,291890016,1,25.1,ppb,24,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/15/2021,AQS,291890016,1,14.7,ppb,13,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/16/2021,AQS,291890016,1,10.6,ppb,9,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/17/2021,AQS,291890016,1,13.1,ppb,12,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/18/2021,AQS,291890016,1,27.4,ppb,25,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/19/2021,AQS,291890016,1,22.5,ppb,21,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/20/2021,AQS,291890016,1,32.6,ppb,30,"Rider Trail, I-70",23,96,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/21/2021,AQS,291890016,1,34.6,ppb,32,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/22/2021,AQS,291890016,1,6.8,ppb,6,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/23/2021,AQS,291890016,1,16.3,ppb,15,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/24/2021,AQS,291890016,1,16.6,ppb,15,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/25/2021,AQS,291890016,1,12.7,ppb,11,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/26/2021,AQS,291890016,1,13.1,ppb,12,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/27/2021,AQS,291890016,1,10.5,ppb,9,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/28/2021,AQS,291890016,1,41.1,ppb,39,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/29/2021,AQS,291890016,1,26.9,ppb,25,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/30/2021,AQS,291890016,1,14.9,ppb,13,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/31/2021,AQS,291890016,1,9.8,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/1/2021,AQS,291890016,1,5.3,ppb,5,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/2/2021,AQS,291890016,1,14.2,ppb,13,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/3/2021,AQS,291890016,1,26.7,ppb,25,"Rider Trail, I-70",23,96,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/4/2021,AQS,291890016,1,22.1,ppb,21,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/5/2021,AQS,291890016,1,14.4,ppb,13,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/6/2021,AQS,291890016,1,8.2,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/7/2021,AQS,291890016,1,6.7,ppb,6,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/8/2021,AQS,291890016,1,12.1,ppb,11,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/9/2021,AQS,291890016,1,9.8,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/10/2021,AQS,291890016,1,11.7,ppb,10,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/11/2021,AQS,291890016,1,8.9,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/12/2021,AQS,291890016,1,9.5,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/13/2021,AQS,291890016,1,9.1,ppb,8,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/14/2021,AQS,291890016,1,10.9,ppb,9,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/15/2021,AQS,291890016,1,7.6,ppb,7,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/16/2021,AQS,291890016,1,44.5,ppb,42,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/17/2021,AQS,291890016,1,43.6,ppb,41,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/18/2021,AQS,291890016,1,34.2,ppb,32,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/19/2021,AQS,291890016,1,41,ppb,39,"Rider Trail, I-70",22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/20/2021,AQS,291890016,1,50.4,ppb,47,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/21/2021,AQS,291890016,1,17.2,ppb,16,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/22/2021,AQS,291890016,1,20.8,ppb,19,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/23/2021,AQS,291890016,1,34.2,ppb,32,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/24/2021,AQS,291890016,1,33.6,ppb,31,"Rider Trail, I-70",21,88,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/25/2021,AQS,291890016,1,25,ppb,24,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/26/2021,AQS,291890016,1,26.6,ppb,25,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/27/2021,AQS,291890016,1,24,ppb,23,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+2/28/2021,AQS,291890016,1,14,ppb,13,"Rider Trail, I-70",24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,189,Saint Louis,38.75264,-90.44884
+1/1/2021,AQS,295100085,2,11.1,ppb,10,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/2/2021,AQS,295100085,2,14.6,ppb,13,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/3/2021,AQS,295100085,2,27.8,ppb,25,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/4/2021,AQS,295100085,2,31.7,ppb,29,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/5/2021,AQS,295100085,2,38.9,ppb,36,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/6/2021,AQS,295100085,2,34.5,ppb,32,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/7/2021,AQS,295100085,2,19.6,ppb,18,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/8/2021,AQS,295100085,2,15.8,ppb,14,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/9/2021,AQS,295100085,2,9.5,ppb,8,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/10/2021,AQS,295100085,2,6.2,ppb,6,Blair Street,21,88,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/11/2021,AQS,295100085,2,27,ppb,25,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/12/2021,AQS,295100085,2,29.9,ppb,27,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/22/2021,AQS,295100085,2,13,ppb,12,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/23/2021,AQS,295100085,2,17.4,ppb,16,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/24/2021,AQS,295100085,2,24.2,ppb,23,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/25/2021,AQS,295100085,2,22.9,ppb,21,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/26/2021,AQS,295100085,2,23.9,ppb,22,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/27/2021,AQS,295100085,2,21.8,ppb,20,Blair Street,22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/28/2021,AQS,295100085,2,36.2,ppb,34,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/29/2021,AQS,295100085,2,33.1,ppb,31,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/30/2021,AQS,295100085,2,22.1,ppb,21,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/31/2021,AQS,295100085,2,14,ppb,13,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/1/2021,AQS,295100085,2,7.1,ppb,7,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/2/2021,AQS,295100085,2,35.1,ppb,33,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/3/2021,AQS,295100085,2,35.8,ppb,33,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/4/2021,AQS,295100085,2,18.6,ppb,17,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/5/2021,AQS,295100085,2,17.2,ppb,16,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/6/2021,AQS,295100085,2,16.6,ppb,15,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/7/2021,AQS,295100085,2,11.6,ppb,10,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/8/2021,AQS,295100085,2,22.2,ppb,21,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/9/2021,AQS,295100085,2,19.5,ppb,18,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/10/2021,AQS,295100085,2,20.4,ppb,19,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/11/2021,AQS,295100085,2,14.9,ppb,13,Blair Street,22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/12/2021,AQS,295100085,2,14.4,ppb,13,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/13/2021,AQS,295100085,2,15.8,ppb,14,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/14/2021,AQS,295100085,2,10.3,ppb,9,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/15/2021,AQS,295100085,2,12.2,ppb,11,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/16/2021,AQS,295100085,2,43.3,ppb,41,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/17/2021,AQS,295100085,2,42.1,ppb,40,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/18/2021,AQS,295100085,2,32.5,ppb,30,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/19/2021,AQS,295100085,2,41.3,ppb,39,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/20/2021,AQS,295100085,2,63.3,ppb,61,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/21/2021,AQS,295100085,2,12.8,ppb,11,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/22/2021,AQS,295100085,2,9.6,ppb,8,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/23/2021,AQS,295100085,2,28.1,ppb,26,Blair Street,22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/24/2021,AQS,295100085,2,24.1,ppb,23,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/25/2021,AQS,295100085,2,34.1,ppb,32,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/26/2021,AQS,295100085,2,44.4,ppb,42,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/27/2021,AQS,295100085,2,22.7,ppb,21,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+2/28/2021,AQS,295100085,2,25.7,ppb,24,Blair Street,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.65642894,-90.19834827
+1/1/2021,AQS,295100094,1,11.7,ppb,10,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/2/2021,AQS,295100094,1,12.5,ppb,11,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/3/2021,AQS,295100094,1,25.3,ppb,24,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/4/2021,AQS,295100094,1,28.1,ppb,26,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/5/2021,AQS,295100094,1,38.5,ppb,36,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/6/2021,AQS,295100094,1,31.7,ppb,29,Forest Park,22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/7/2021,AQS,295100094,1,19.8,ppb,18,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/8/2021,AQS,295100094,1,14.3,ppb,13,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/9/2021,AQS,295100094,1,5.2,ppb,5,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/10/2021,AQS,295100094,1,5.6,ppb,5,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/11/2021,AQS,295100094,1,24.8,ppb,23,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/12/2021,AQS,295100094,1,35.8,ppb,33,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/13/2021,AQS,295100094,1,32,ppb,30,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/14/2021,AQS,295100094,1,28,ppb,26,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/15/2021,AQS,295100094,1,13.6,ppb,12,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/16/2021,AQS,295100094,1,7.1,ppb,7,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/17/2021,AQS,295100094,1,8.9,ppb,8,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/18/2021,AQS,295100094,1,30.5,ppb,28,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/19/2021,AQS,295100094,1,21.8,ppb,20,Forest Park,23,96,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/20/2021,AQS,295100094,1,27.9,ppb,25,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/21/2021,AQS,295100094,1,25,ppb,24,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/22/2021,AQS,295100094,1,12.6,ppb,11,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/23/2021,AQS,295100094,1,17.5,ppb,16,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/24/2021,AQS,295100094,1,15.3,ppb,14,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/25/2021,AQS,295100094,1,15.5,ppb,14,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/26/2021,AQS,295100094,1,15.2,ppb,14,Forest Park,21,88,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/27/2021,AQS,295100094,1,17,ppb,16,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/28/2021,AQS,295100094,1,35.3,ppb,33,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/29/2021,AQS,295100094,1,26.5,ppb,25,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/30/2021,AQS,295100094,1,11.2,ppb,10,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+1/31/2021,AQS,295100094,1,11.9,ppb,10,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/1/2021,AQS,295100094,1,8.2,ppb,8,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/2/2021,AQS,295100094,1,27.6,ppb,25,Forest Park,22,92,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/3/2021,AQS,295100094,1,29.4,ppb,27,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/4/2021,AQS,295100094,1,16.9,ppb,15,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/5/2021,AQS,295100094,1,19,ppb,18,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/6/2021,AQS,295100094,1,16.1,ppb,15,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/7/2021,AQS,295100094,1,11.1,ppb,10,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/8/2021,AQS,295100094,1,15.8,ppb,14,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/9/2021,AQS,295100094,1,16.2,ppb,15,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/10/2021,AQS,295100094,1,22.7,ppb,21,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/11/2021,AQS,295100094,1,15.2,ppb,14,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/12/2021,AQS,295100094,1,16.3,ppb,15,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/13/2021,AQS,295100094,1,11.3,ppb,10,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/14/2021,AQS,295100094,1,9.2,ppb,8,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/15/2021,AQS,295100094,1,10.2,ppb,9,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/16/2021,AQS,295100094,1,29.8,ppb,27,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/17/2021,AQS,295100094,1,28.5,ppb,26,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/18/2021,AQS,295100094,1,27.4,ppb,25,Forest Park,21,88,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/19/2021,AQS,295100094,1,33.5,ppb,31,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/20/2021,AQS,295100094,1,37.2,ppb,35,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/21/2021,AQS,295100094,1,16.4,ppb,15,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/22/2021,AQS,295100094,1,19.2,ppb,18,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/23/2021,AQS,295100094,1,19.6,ppb,18,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/24/2021,AQS,295100094,1,35.1,ppb,33,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/25/2021,AQS,295100094,1,22.6,ppb,21,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/26/2021,AQS,295100094,1,18.2,ppb,17,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/27/2021,AQS,295100094,1,25.7,ppb,24,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
+2/28/2021,AQS,295100094,1,17.9,ppb,16,Forest Park,24,100,42602,Nitrogen dioxide (NO2),41180,"St. Louis, MO-IL",29,Missouri,510,St. Louis City,38.63114,-90.28115
