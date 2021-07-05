@@ -2,8 +2,20 @@
 Data_file_path <- "./Data/"
 pollutant_measure <- "PM25" #character string to search for in data file that contains files of interest
 pollutant_name <- "Daily.Mean.PM2.5.Concentration" #EPA's name for the pollutant concentration
+#EPA criteria: https://www.epa.gov/criteria-air-pollutants/naaqs-table
+  # CO = 9 ppm / 8 hours
+  #PB = 0.15 rolling 3 month average
+  #NO2 100 ppb / hour
+  #Ozone 0.07/8 hours
+  #PM2.5 35 / 24 hours
+  #PM10 150 / 24 hours
+  #SO2 0.5 ppm / 3 hours, 75 ppb / 1 hour
+min_daily_thresh <- 35 #acceptable threshold per EPA. 35 for PM2.5, 150 for PM10
 
-
+#AQI Thresholds https://www.epa.gov/sites/production/files/2016-04/documents/2012_aqi_factsheet.pdf
+AQI_moderate <- 50
+AQI_sens_groups <- 100
+AQI_unhealthy <- 150
 
 #file that contains the data that needs to be matched with pollutant data
 #must contain lat and lon data 
@@ -15,7 +27,7 @@ participant_longitude_name <- "Lon"
 
 
 #where to save generated file with pollution estimates for each lat lon
-write_off_file_path <- "./Data/interpolated_PM25_concentration.csv" 
+write_off_file_path <- paste0("./Data/interpolated_", pollutant_measure, "_concentration.csv") 
 
 #Constrains latitude window for EPA stations to include, so we're not pulling in chicago data 
 #when using IL and MO data
