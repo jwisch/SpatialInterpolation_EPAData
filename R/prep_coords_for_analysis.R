@@ -34,7 +34,7 @@ EPA_files$Days_over_unhealthy_AQI <- ifelse(data.frame(EPA_files)[, "DAILY_AQI_V
 address_df <- read.csv(participant_data_file_path)
 address_df <- address_df[, c(participant_latitude_name, participant_longitude_name)]
 address_df <- address_df[!duplicated(address_df),]
-
+address_df <- address_df[!is.na(address_df$Lat),]
 ################################################################################
 #Summarizing by year
 ################################################################################
